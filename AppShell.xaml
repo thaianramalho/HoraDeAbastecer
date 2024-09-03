@@ -8,7 +8,7 @@
     Title="Hora de Abastecer">
 
     <ShellContent
-        Title="Início"
+        Title="Hora de Abastecer"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 

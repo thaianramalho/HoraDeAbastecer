@@ -21,7 +21,7 @@
 		<Nullable>enable</Nullable>
 
 		<!-- Display name -->
-		<ApplicationTitle>HoraDeAbastecer</ApplicationTitle>
+		<ApplicationTitle>Hora de Abastecer</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.horadeabastecer</ApplicationId>
