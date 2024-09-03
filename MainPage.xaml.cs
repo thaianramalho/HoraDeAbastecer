@@ -22,8 +22,8 @@
 
                 string msg = $"O preço do etanol está a {porcentagem:F2}% do preço da gasolina.";
                 string recomendacao;
-                
-                if(etanol <= gasolina * 0.7)
+
+                if (etanol <= gasolina * 0.7)
                 {
                     recomendacao = "Recomendação: abasteça com etanol.";
                 }
@@ -45,6 +45,7 @@
             }
 
         }
+
     }
 
 }
