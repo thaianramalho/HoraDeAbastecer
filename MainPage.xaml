@@ -14,10 +14,10 @@
                 SemanticProperties.Description="dot net bot in a race car number eight" />
 
             <Label Text="Preço da Gasolina:"/>
-            <Entry x:Name="txt_gasolina" Placeholder="R$"/>
+            <Entry x:Name="txt_gasolina" Placeholder="R$" Keyboard="Numeric"/>
 
             <Label Text="Preço do Etanol:"/>
-            <Entry x:Name="txt_etanol" Placeholder="R$"/>
+            <Entry x:Name="txt_etanol" Placeholder="R$" Keyboard="Numeric"/>
 
             <Button Text="Calcular" Clicked="OnCalcularClicked"/>
 

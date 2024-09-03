@@ -25,11 +25,11 @@
                 
                 if(etanol <= gasolina * 0.7)
                 {
-                    recomendacao = "O Etanol está compensando.";
+                    recomendacao = "Recomendação: abasteça com etanol.";
                 }
                 else
                 {
-                    recomendacao = "A gasolina está compensando.";
+                    recomendacao = "Recomendação: abasteça com gasolina.";
                 }
 
                 string msgFinal = $"{msg}\n\n{recomendacao}\nDiferença: R$ {diferenca:F2}";
