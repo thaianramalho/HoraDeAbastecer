@@ -5,10 +5,10 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:HoraDeAbastecer"
     Shell.FlyoutBehavior="Disabled"
-    Title="HoraDeAbastecer">
+    Title="Hora de Abastecer">
 
     <ShellContent
-        Title="Home"
+        Title="Início"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
